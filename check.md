@@ -25,8 +25,13 @@
              4. Team Zone  
 
 s.no   ] name
+
 -------]-------
+
 01     ] phone
+
 02     ] iphone
+
 03     ] penguin
+
 04]ubuntu
